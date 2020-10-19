@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Wilker de Oliveira Delfino
 
 
-👨🏻‍💻 Ruby On Rails Developer
+👨🏻‍💻 Ruby On Rails Developer at [QConcursos](https://github.com/qcx)
 
 👨🏻‍🔬 MSc Researcher and Java Developer at [MídiaCom Labs](https://www.midiacom.uff.br/midiacom/index.php/pt-BR/)
 
