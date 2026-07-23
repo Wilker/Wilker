@@ -16,13 +16,7 @@
 
   <br/><br/>
 
-  <p>
-    <code>Ruby on Rails em escala</code>
-    &nbsp;·&nbsp;
-    <code>SDN / fault recovery</code>
-    &nbsp;·&nbsp;
-    <code>Simples melhor que complexo</code>
-  </p>
+  <img src="https://raw.githubusercontent.com/Wilker/Wilker/master/assets/tagline.svg" alt="Ruby on Rails em escala | SDN / fault recovery | Simples melhor que complexo" width="820" />
 
 </div>
 

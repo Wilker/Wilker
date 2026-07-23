@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="44" viewBox="0 0 820 44" role="img" aria-label="tagline">
+  <rect width="820" height="44" rx="8" fill="#1a0b0d"/>
+  <rect x="0.5" y="0.5" width="819" height="43" rx="7.5" fill="none" stroke="#CC342D" stroke-opacity="0.35"/>
+  <text x="410" y="28" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#CC342D">
+    Ruby on Rails em escala  ·  SDN / fault recovery  ·  Simples melhor que complexo
+  </text>
+</svg>
