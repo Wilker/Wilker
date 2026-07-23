@@ -52,27 +52,6 @@ Fora do horário comercial: PoCs com agentes de IA e automações — sempre sep
 
 ---
 
-## GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wilker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b0d&title_color=CC342D&icon_color=D30001&text_color=D4A5A5&ring_color=CC342D" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wilker&layout=compact&langs_count=8&hide_border=true&bg_color=1a0b0d&title_color=CC342D&text_color=D4A5A5" alt="Top languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wilker&theme=dark&hide_border=true&background=1a0b0d&ring=CC342D&fire=D30001&currStreakLabel=CC342D&sideLabels=D4A5A5&dates=A88989&currStreakNum=FAF5F5&sideNums=FAF5F5" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wilker&bg_color=1a0b0d&color=D4A5A5&line=CC342D&point=D30001&area=true&area_color=CC342D&hide_border=true" alt="Activity graph" width="100%" />
-</div>
-
----
-
 ## Pesquisa
 
 Mestrado em Computação na **Universidade Federal Fluminense**, no grupo **MídiaCom**.
