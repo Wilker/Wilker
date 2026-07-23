@@ -1,21 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Wilker">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1220"/>
-      <stop offset="55%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0f172a"/>
+      <stop offset="0%" stop-color="#1a0b0d"/>
+      <stop offset="50%" stop-color="#220f12"/>
+      <stop offset="100%" stop-color="#1c1014"/>
     </linearGradient>
     <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.15"/>
-      <stop offset="50%" stop-color="#2dd4bf" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#CC342D" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#D30001" stop-opacity="0.35"/>
     </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="35%" r="40%">
-      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
+    <linearGradient id="gem" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E35D5B"/>
+      <stop offset="45%" stop-color="#CC342D"/>
+      <stop offset="100%" stop-color="#8B1E1A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="30%" r="38%">
+      <stop offset="0%" stop-color="#CC342D" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#CC342D" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#f87171" stroke-opacity="0.06" stroke-width="1"/>
     </pattern>
   </defs>
 
@@ -23,34 +28,36 @@
   <rect width="1200" height="320" fill="url(#grid)"/>
   <rect width="1200" height="320" fill="url(#glow)"/>
 
-  <!-- SDN-ish topology -->
-  <g stroke="url(#line)" stroke-width="1.6" fill="none">
-    <path d="M180 220 C260 120, 340 120, 420 180 S580 260, 680 170 S860 80, 980 140"/>
-    <path d="M220 250 C320 210, 390 90, 510 130 S700 250, 820 190 S940 110, 1040 160" opacity="0.55"/>
+  <g stroke="url(#line)" stroke-width="1.5" fill="none">
+    <path d="M200 230 C290 140, 360 130, 450 185 S620 255, 720 175 S880 95, 1000 150"/>
+    <path d="M240 255 C340 215, 410 105, 530 140 S720 250, 840 195 S960 120, 1050 170" opacity="0.45"/>
   </g>
 
-  <g fill="#2dd4bf">
-    <circle cx="220" cy="236" r="5"/>
-    <circle cx="420" cy="180" r="5"/>
-    <circle cx="560" cy="210" r="5"/>
-    <circle cx="680" cy="170" r="6"/>
-    <circle cx="820" cy="190" r="5"/>
-    <circle cx="980" cy="140" r="5"/>
-  </g>
-  <g fill="#f59e0b">
-    <circle cx="510" cy="130" r="4"/>
-    <circle cx="940" cy="155" r="4"/>
+  <g fill="#CC342D">
+    <circle cx="240" cy="242" r="4.5"/>
+    <circle cx="450" cy="185" r="4.5"/>
+    <circle cx="590" cy="215" r="4.5"/>
+    <circle cx="720" cy="175" r="5.5"/>
+    <circle cx="840" cy="195" r="4.5"/>
+    <circle cx="1000" cy="150" r="4.5"/>
   </g>
 
-  <text x="72" y="128" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#f8fafc">
+  <g transform="translate(1045, 48) scale(1.15)">
+    <polygon points="40,8 68,28 56,72 24,72 12,28" fill="url(#gem)" opacity="0.92"/>
+    <polygon points="40,8 68,28 40,36 12,28" fill="#F2A6A4" opacity="0.35"/>
+    <polygon points="40,36 68,28 56,72" fill="#8B1E1A" opacity="0.35"/>
+    <line x1="40" y1="8" x2="40" y2="72" stroke="#fff" stroke-opacity="0.12" stroke-width="1"/>
+  </g>
+
+  <text x="72" y="128" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#FAF5F5">
     Wilker de Oliveira Delfino
   </text>
-  <text x="72" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#94a3b8">
-    backend @ scale · SDN research · AI with feet on the ground
+  <text x="72" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#D4A5A5">
+    Ruby on Rails @ scale  |  SDN research  |  AI with feet on the ground
   </text>
 
-  <rect x="72" y="208" width="220" height="34" rx="8" fill="#0f766e" fill-opacity="0.25" stroke="#2dd4bf" stroke-opacity="0.45"/>
-  <text x="182" y="230" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#99f6e4">
-    QConcursos · MídiaCom/UFF
+  <rect x="72" y="208" width="248" height="34" rx="8" fill="#CC342D" fill-opacity="0.14" stroke="#CC342D" stroke-opacity="0.45"/>
+  <text x="196" y="230" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#F0C4C4">
+    QConcursos  |  MidiaCom/UFF
   </text>
 </svg>

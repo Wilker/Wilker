@@ -1,23 +1,23 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Wilker de Oliveira Delfino" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wilker/Wilker/master/assets/banner.svg" alt="Wilker de Oliveira Delfino" width="100%" />
 
   <br/>
 
   <a href="https://github.com/qcx">
-    <img src="https://img.shields.io/badge/QConcursos-Rails-0f766e?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="QConcursos" />
+    <img src="https://img.shields.io/badge/QConcursos-Rails-CC342D?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="QConcursos" />
   </a>
   <a href="https://www.midiacom.uff.br/midiacom/index.php/pt-BR/">
-    <img src="https://img.shields.io/badge/MídiaCom-SDN_Research-1e293b?style=for-the-badge&logo=ieee&logoColor=2dd4bf" alt="MídiaCom" />
+    <img src="https://img.shields.io/badge/MídiaCom-SDN_Research-7f1d1d?style=for-the-badge&logo=ieee&logoColor=F0C4C4" alt="MídiaCom" />
   </a>
   <a href="https://www.uff.br/">
-    <img src="https://img.shields.io/badge/UFF-MSc_Computer_Science-0b1220?style=for-the-badge&logo=academia&logoColor=f59e0b" alt="UFF" />
+    <img src="https://img.shields.io/badge/UFF-MSc_Computer_Science-1a0b0d?style=for-the-badge&logo=academia&logoColor=CC342D" alt="UFF" />
   </a>
 
   <br/><br/>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=720&lines=Ruby+on+Rails+em+escala;SDN+%2F+fault+recovery;Agentes+de+IA+sem+teatro;Menos+%C3%A9+mais"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=CC342D&center=true&vCenter=true&width=720&lines=Ruby+on+Rails+em+escala;SDN+%2F+fault+recovery;Agentes+de+IA+sem+teatro;Simples+melhor+que+complexo"
     alt="typing"
   />
 
@@ -55,20 +55,20 @@ Fora do horário comercial: PoCs com agentes de IA e automações — sempre sep
 ## GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wilker&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=f59e0b&text_color=94a3b8&ring_color=14b8a6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilker&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=94a3b8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wilker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b0d&title_color=CC342D&icon_color=D30001&text_color=D4A5A5&ring_color=CC342D" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wilker&layout=compact&langs_count=8&hide_border=true&bg_color=1a0b0d&title_color=CC342D&text_color=D4A5A5" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wilker&theme=transparent&hide_border=true&ring=14b8a6&fire=f59e0b&currStreakLabel=2dd4bf" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Wilker&theme=dark&hide_border=true&background=1a0b0d&ring=CC342D&fire=D30001&currStreakLabel=CC342D&sideLabels=D4A5A5&dates=A88989&currStreakNum=FAF5F5&sideNums=FAF5F5" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wilker&bg_color=0b1220&color=2dd4bf&line=14b8a6&point=f59e0b&area=true&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wilker&bg_color=1a0b0d&color=D4A5A5&line=CC342D&point=D30001&area=true&area_color=CC342D&hide_border=true" alt="Activity graph" width="100%" />
 </div>
 
 ---
@@ -86,7 +86,7 @@ Foco: fault recovery em SDN e ambientes de teste para controladores distribuído
 
 ## Como eu trabalho
 
-- Menos é mais, a menos que a complexidade seja necessária
+- Simples melhor que complexo
 - Software pensado para larga escala desde o desenho
 - Mudanças pequenas, revisáveis e rastreáveis
 - Código e review críticos — inclusive do próprio trabalho
@@ -97,12 +97,8 @@ Foco: fault recovery em SDN e ambientes de teste para controladores distribuído
 
 ### Contato
 
-[![qcx](https://img.shields.io/badge/@qcx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qcx)
-[![midiacom](https://img.shields.io/badge/@midiacom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midiacom)
-[![site](https://img.shields.io/badge/wilker.github.io-0f766e?style=for-the-badge&logo=githubpages&logoColor=white)](https://wilker.github.io)
-
-<br/>
-
-<sub>Banner SVG local · widgets externos (stats / streak / activity) · ainda só em revisão local</sub>
+[![qcx](https://img.shields.io/badge/@qcx-CC342D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qcx)
+[![midiacom](https://img.shields.io/badge/@midiacom-7f1d1d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midiacom)
+[![site](https://img.shields.io/badge/wilker.github.io-1a0b0d?style=for-the-badge&logo=githubpages&logoColor=CC342D)](https://wilker.github.io)
 
 </div>
