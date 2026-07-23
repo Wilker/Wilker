@@ -16,10 +16,13 @@
 
   <br/><br/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=CC342D&center=true&vCenter=true&width=720&lines=Ruby+on+Rails+em+escala;SDN+%2F+fault+recovery;Agentes+de+IA+sem+teatro;Simples+melhor+que+complexo"
-    alt="typing"
-  />
+  <p>
+    <code>Ruby on Rails em escala</code>
+    &nbsp;·&nbsp;
+    <code>SDN / fault recovery</code>
+    &nbsp;·&nbsp;
+    <code>Simples melhor que complexo</code>
+  </p>
 
 </div>
 
@@ -40,7 +43,7 @@ Fora do horário comercial: PoCs com agentes de IA e automações — sempre sep
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,java,ts,python,go,aws,docker,kubernetes,linux,postgres,redis" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,java,ts,python,aws,docker,kubernetes,linux,postgres,redis" alt="Stack" />
 </div>
 
 | Área | Ferramentas |
@@ -48,7 +51,7 @@ Fora do horário comercial: PoCs com agentes de IA e automações — sempre sep
 | Backend | Ruby, Rails, Java |
 | Dados / busca | OpenSearch, SQL, AWS |
 | Plataforma | Docker, Kubernetes, Cloudflare Workers |
-| Também | TypeScript, Python, Go — quando o problema pede |
+| Também | TypeScript, Python — quando o problema pede |
 
 ---
 
